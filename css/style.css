@@ -1,0 +1,29 @@
+
+.navbar {
+    padding: 0px !important;
+}
+
+.title {
+    font-size: 50px;
+    font-weight: 800;
+    color: black;
+    text-shadow: 1px 1px 5px rgb(165, 172, 214); 
+    letter-spacing: 13px;
+}
+
+.slogan {
+    font-size: 30px;
+    /* color: black; */
+    text-shadow: 1px 1px 5px black; 
+    letter-spacing: 19px;
+}
+
+h3, h5, h2 {
+    font-family: "Lucida Grande", Tahoma;
+    font-weight: lighter;
+    font-variant: normal;
+    color: black;
+           margin-top: 10px;
+    letter-spacing: 0.3em;
+    text-shadow: 1px 1px 2px rgb(68, 68, 71); 
+}
